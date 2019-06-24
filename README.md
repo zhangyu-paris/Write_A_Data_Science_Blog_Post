@@ -20,9 +20,11 @@ As a Chinese, I am quite interested in the pollution situation in China, and app
 
 My key interests would be:
 
-1. [TBD]
-2. [TBD]
-3. [TBD]
+Question 1: During the day, when has lowest air quality?
+
+Question 2: Which factor influence air quality the greatest?
+
+Question 3: Can we predit the air quality on all these factors?
 
 ## File Descriptions <a name="files"></a>
 
