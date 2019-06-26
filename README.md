@@ -20,11 +20,15 @@ As a Chinese, I am quite interested in the pollution situation in China, and app
 
 My key interests would be:
 
-Question 1: During the day, when has lowest air quality?
+Question 1: During the day, when has worst air quality? And when has best air quality?
 
-Question 2: Which factor influence air quality the greatest?
+Question 2: During the year, when has worst air quality? And when has best air quality?
 
-Question 3: Can we predit the air quality on all these factors?
+Question 3: Which city has worst air quality?
+
+Question 4: Does the air quality improve these 5 years?
+
+Question 5: During the day correlation between hour, DEWP, HUMI, PRES, TEMP, Iws, precipitation, Iprec and PM?
 
 ## File Descriptions <a name="files"></a>
 
