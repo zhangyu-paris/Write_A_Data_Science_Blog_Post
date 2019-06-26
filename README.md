@@ -40,7 +40,7 @@ There is also a notebook available here to showcsae all my work related to my fi
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the [post](TBD) available
+The main findings of the code can be found at the [post](https://medium.com/@zhangyu19900418/a-study-of-pm2-5-data-of-five-chinese-cities-fdec58cebf5f?postPublishedType=initial) available
 
 
 
