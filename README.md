@@ -34,7 +34,7 @@ Question 5: During the day correlation between hour, DEWP, HUMI, PRES, TEMP, Iws
 
 Repository Data contains the air quality data for Shenyang, Chengdu, Beijing, Guangzhou, and Shanghai from the year 2010 to 2015. 
 
-There is also a notebook(A Study of PM2.5 Data of Five Chinese Cities.ipynb) available here  to showcsae all my work related to my five questions.
+There is also a notebook[A Study of PM2.5 Data of Five Chinese Cities.ipynb](https://github.com/zhangyu-paris/Write_A_Data_Science_Blog_Post/blob/master/A%20Study%20of%20PM2.5%20Data%20of%20Five%20Chinese%20Cities.ipynb) available here  to showcsae all my work related to my five questions.
 
 
 
