@@ -26,7 +26,7 @@ Question 2: During the year, when has worst air quality? And when has best air q
 
 Question 3: Which city has worst air quality?
 
-Question 4: Does the air quality improve these 5 years?
+Question 4: Does the air quality improve these 6 years?
 
 Question 5: During the day correlation between hour, DEWP, HUMI, PRES, TEMP, Iws, precipitation, Iprec and PM?
 
